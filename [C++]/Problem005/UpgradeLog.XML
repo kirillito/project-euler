@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Problem005">
+</Property><Property Name="Solution File" Value="D:\MPEI\МЭИ - АВТИ - ПМ\_Training\_ProjectEuler\Problem005\Problem005.sln">
+</Property><Property Name="Date" Value="Wednesday, October 19, 2011">
+</Property><Property Name="Time" Value="17:45 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Problem005" Source="Problem005.vcproj" Description="Converting project file 'D:\MPEI\МЭИ - АВТИ - ПМ\_Training\_ProjectEuler\Problem005\Problem005.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Problem005" Source="Problem005.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Problem005" Source="Problem005.vcproj" Description="Done converting to new project file 'D:\MPEI\МЭИ - АВТИ - ПМ\_Training\_ProjectEuler\Problem005\Problem005.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Problem005" Source="Problem005.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Problem005.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Problem005.sln" Description="Converted">
+</Event></UpgradeLog>

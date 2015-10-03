@@ -41,3 +41,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.pdb
+[F#]/Problem001/bin/Debug/Problem001.exe
+[F#]/Problem001/bin/Debug/Problem001.XML
+[F#]/Problem001/obj/x86/Debug/Problem001.fsproj.FileListAbsolute.txt
+*.user
